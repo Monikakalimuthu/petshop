@@ -1,0 +1,10 @@
+header{
+    background-color: #134B70 ;
+}
+.card-img-top{
+    height: 11vw;
+    object-fit: cover;
+}
+body{
+    background: linear-gradient(#008DDA,#41C9E2,#4e8f8e,#0f7c8f,#008DDA);
+}
